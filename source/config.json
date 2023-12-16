@@ -1,19 +1,19 @@
 {
-    "title": "Heyc",
+    "title": "hycqwq",
     "favicon": "./dist/favicon.ico",
     "user": {
-        "name": "Heyc",
-        "slogan": "嘿嘿哈",
-        "avatar": "https://cdn.luogu.com.cn/upload/usericon/532854.png"
+        "name": "hycqwq",
+        "slogan": "偷得浮生半日闲",
+        "avatar": "https://cdn.hycqwq.top/hyc/favicon.png"
     },
     "customhtml": {
         "headend": "",
         "bodyend": "",
-        "cardend": ""
+        "cardend": "<div align=\"center\">使用 <a href=\"https://github.com/hyc-official/HomeCard\">HomeCard</a> 搭建</div>"
     },
     "background": {
         "showimg": true,
-        "imgurl": "https://api.heyc.eu.org/bing/process?blur=10"
+        "imgurl": "https://api.hycqwq.top/bing/process?blur=10"
     },
     "linkblocks": [
         {
@@ -21,61 +21,44 @@
             "bgcolor": "#4C58DC",
             "desc": "博客",
             "title": "记录一些有趣的事情",
-            "url": "https://blog.heyc.eu.org/"
+            "url": "https://blog.hycqwq.top/"
         },
         {
-            "icon": "fa-solid fa-blog",
-            "bgcolor": "#58DC4C",
-            "desc": "博客",
-            "title": "记录一些有趣的事情",
-            "url": "https://blog.heyc.eu.org/"
-        },
-        {
-            "icon": "fa-solid fa-blog",
-            "bgcolor": "#DC4C58",
-            "desc": "博客",
-            "title": "记录一些有趣的事情",
-            "url": "https://blog.heyc.eu.org/"
+            "icon": "fa-brands fa-github",
+            "bgcolor": "#000000",
+            "desc": "GitHub",
+            "title": "代码就是我的命",
+            "url": "https://github.com/hyc1230"
         }
     ],
     "linkicons": [
         {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
+            "icon": "fa-solid fa-code",
+            "title": "洛谷",
+            "url": "https://www.luogu.com.cn/user/532854"
         },
         {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
+            "icon": "fa-brands fa-twitter",
+            "title": "Twitter",
+            "url": "https://twitter.com/i_heyc"
         },
         {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
+            "icon": "fa-brands fa-discord",
+            "title": "Discord",
+            "url": "https://discord.com/users/1133996357439459338"
         },
         {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
-        },
-        {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
-        },
-        {
-            "icon": "fa-brands fa-github",
-            "title": "GitHub",
-            "url": "https://github.com/hyc1230"
+            "icon": "fa-solid fa-envelope",
+            "title": "给我发邮件",
+            "url": "mailto:i@heyc.eu.org"
         }
     ],
     "music": {
         "enabled": true,
         "outside": true,
-        "metingapi": "https://api.mizore.cn/meting/api.php?server=:server&type=:type&id=:id&auth=:auth&r=:r",
+        "metingapi": "https://meting-api.heyc.eu.org/api?server=:server&type=:type&id=:id&auth=:auth&r=:r",
         "metingoptions": {
-            "auto": "https://music.163.com/#/song?id=1963654951",
+            "auto": "https://music.163.com/#/song?id=1817576399",
             "fixed": "true"
         }
     }
